@@ -1,36 +1,22 @@
-# Industrial Analytics Portfolio (Steel & Heavy Industry)
+# Neiclesio Ibiapina — Industrial Analytics / OpEx + Data
 
-Portfolio focused on **industrial analytics / applied AI** and **OpEx audits + data roadmaps**, built from real-world steelmaking experience (data sanitized/simulated).
+I help heavy industry teams improve **yield, quality, downtime and energy** using **analytics and applied problem-solving** — translating insights into **OpEx roadmaps** that get executed.
 
-## Case Studies (public, sanitized)
-1) **EAF Energy Reduction (-20%)** — DMAIC + loss driver analytics  
-2) **Electrode Consumption Reduction (-30%)** — RCA + controlled trials  
-3) **Availability Improvement** — constraint + flow analysis (ladle-waiting / power-off losses)
+- 🇧🇷 Based in Brazil | 🌍 Open to global remote work (EUR/USD)  
+- 🏭 Steelmaking (EAF/LF) + Projects & Processes | 17 years  
+- 📈 Results: **-20% EAF energy**, **-30% electrode consumption** (DMAIC / Six Sigma)  
+- 🧰 Python • (SQL in progress) • Excel • SAP • Minitab • ISO 9001 LA • Six Sigma GB
 
-📁 See: `case-studies/`
+## Featured
+- 📌 **Industrial Analytics Portfolio:** https://github.com/neiclesio-lab/industrial-analytics-portfolio
+- 📄 Case Studies (sanitized): energy, electrodes, availability (see portfolio repo)
 
-## Projects
-### 01) KPI Dashboard (Manufacturing)
-- KPIs: yield, energy, downtime, quality, losses
-- Deliverables: dataset (simulated), dashboard screenshots, metric definitions  
-📁 `projects/01-kpi-dashboard/`
+## Skills
+**Industrial Analytics:** loss drivers, time-series, anomaly detection (basic), KPI governance  
+**OpEx:** DMAIC, MASP, RCA/RCFA, standard work, audit routines  
+**Steelmaking:** EAF/LF optimization, commissioning, quality & productivity
 
-### 02) Anomaly Detection (Time-series)
-- Detect abnormal energy/temperature/consumption patterns
-- Deliverables: notebook + charts + explanation  
-📁 `projects/02-anomaly-detection/`
+## Contact
+- LinkedIn: (https://www.linkedin.com/in/neiclesio-nunes-ibiapina-88274523/)
+- Email: neiclesio@yahoo.com.br / neiclesio@outlook.com
 
-### 03) OpEx Audit Scoring Model
-- Questionnaire + scoring + roadmap generation
-- Deliverables: workbook or notebook + template + example output  
-📁 `projects/03-opex-audit-scoring/`
-
-## Stack
-- Python (pandas, numpy, scikit-learn)  
-- Excel (advanced)  
-- Optional: Power BI / Tableau screenshots  
-- SQL (in progress)
-
-## How to use this repo
-- Each project contains a `README.md` + data (simulated) + outputs.
-- Case studies are written for recruiters and clients (problem → method → impact → sustainment).
